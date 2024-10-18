@@ -2,7 +2,7 @@
 I'm currently building a decentralized, secure, and lightning-fast authentication network in Go. Always striving for innovation, I focus on efficient and scalable solutions.
 
 ## 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-foldyna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-foldyna)
 
 ---
 
