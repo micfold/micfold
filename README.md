@@ -37,7 +37,3 @@ I'm currently building a decentralized, secure, and lightning-fast authenticatio
 - Cloud-Native Solutions
 - Zero Trust Architecture
 
----
-
-# 📈 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
